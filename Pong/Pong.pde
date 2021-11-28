@@ -1,5 +1,5 @@
 
-//To control the paddles, you have to keep pressing the move button multiple times. This is so the game is slightly more difficult.
+//To control the paddles, you have to keep pressing the move button. This is so the game is slightly more difficult.
 
 //If you would like to control the individual sounds of the game, use the variables bellow this comment. The volume ranges from 0 to 1.
 
